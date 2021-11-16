@@ -1,4 +1,4 @@
-[
+data : [
     {
         "name" : "Вася",
         "surname": "Pupkin",
@@ -166,5 +166,5 @@
         "phone": "0689898899",
         "email": "test@mail.com",
         "create/update": "05.01.2021 23:30",
-    },
+    }
 ]
