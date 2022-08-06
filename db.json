@@ -4,6 +4,11 @@
     "id" : "1",
     "name" : "Leanne",
     "surname": "Graham",
+    "info":{
+          "name":"Leanne",
+          "city":"Warshawa",
+          "avatar":""
+       },
     "dateOfBirthday": "1989-03-30",
     "phone": "0689898899",
     "email": "Sincere@april.biz",
