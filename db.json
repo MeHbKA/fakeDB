@@ -1,209 +1,209 @@
 {
-  "users" : [
-    {
-      "id" : "1",
-      "info" : {
-        "name" : "Leanne",
-        "city" : "Warshawa",
-        "avatar": ""
+   "users":[
+      {
+         "id":"1",
+         "info":{
+            "name":"Leanne",
+            "city":"Warshawa",
+            "avatar":""
+         },
+         "surname":"Graham",
+         "dateOfBirthday":"1989-03-30",
+         "phone":"0689898899",
+         "email":"Sincere@april.biz",
+         "balance":"2000",
+         "status":"1"
       },
-      "surname": "Graham",
-      "dateOfBirthday": "1989-03-30",
-      "phone": "0689898899",
-      "email": "Sincere@april.biz",
-      "balance": "2000",
-      "status": "1"
-    },
-    {
-      "id" : "2",
-      "info": {
-        "name" : "Ervin",
-        "city" : "Warshawa",
-        "avatar": ""
+      {
+         "id":"2",
+         "info":{
+            "name":"Ervin",
+            "city":"Warshawa",
+            "avatar":""
+         },
+         "surname":"Howell",
+         "dateOfBirthday":"1986-12-21",
+         "phone":"0689898031",
+         "email":"Nathan@yesenia.net",
+         "balance":"200",
+         "status":"1"
       },
-      "surname": "Howell",
-      "dateOfBirthday": "1986-12-21",
-      "phone": "0689898031",
-      "email": "Nathan@yesenia.net",
-      "balance": "200",
-      "status": "1"
-    },
-    {
-      "id" : "3",
-      "info" : {
-        "name" : "Clementine",
-        "city" : "Warshawa",
-        "avatar": ""
+      {
+         "id":"3",
+         "info":{
+            "name":"Clementine",
+            "city":"Warshawa",
+            "avatar":""
+         },
+         "surname":"Bauch",
+         "dateOfBirthday":"1995-03-21",
+         "phone":"0931437899",
+         "email":"Shanna@melissa.tv",
+         "balance":"1500",
+         "status":"1"
       },
-      "surname": "Bauch",
-      "dateOfBirthday": "1995-03-21",
-      "phone": "0931437899",
-      "email": "Shanna@melissa.tv",
-      "balance": "1500",
-      "status": "1"
-    },
-    {
-      "id" : "4",
-      "info": {
-        "name" : "Patricia",
-        "city" : "Warshawa",
-        "avatar": ""
+      {
+         "id":"4",
+         "info":{
+            "name":"Patricia",
+            "city":"Warshawa",
+            "avatar":""
+         },
+         "surname":"Lebsack",
+         "dateOfBirthday":"1989-03-21",
+         "phone":"0689898899",
+         "email":"test@mail.com",
+         "balance":"2000",
+         "status":"0"
       },
-      "surname": "Lebsack",
-      "dateOfBirthday": "1989-03-21",
-      "phone": "0689898899",
-      "email": "test@mail.com",
-      "balance": "2000",
-      "status": "0"
-    },
-    {
-      "id" : "5",
-      "info": {
-        "name" : "Chelsey",
-        "city" : "Warshawa",
-        "avatar" : ""
+      {
+         "id":"5",
+         "info":{
+            "name":"Chelsey",
+            "city":"Warshawa",
+            "avatar":""
+         },
+         "surname":"Dietrich",
+         "dateOfBirthday":"1989-03-21",
+         "phone":"0689898899",
+         "email":"test@mail.com",
+         "balance":"3000",
+         "status":"1"
       },
-      "surname": "Dietrich",
-      "dateOfBirthday": "1989-03-21",
-      "phone": "0689898899",
-      "email": "test@mail.com",
-      "balance": "3000",
-      "status": "1"
-    },
-    {
-      "id" : "6",
-      "info": {
-        "name" : "Dennis",
-        "city" : "Kraków",
-        "avatar": ""
+      {
+         "id":"6",
+         "info":{
+            "name":"Dennis",
+            "city":"Kraków",
+            "avatar":""
+         },
+         "surname":"Schulist",
+         "dateOfBirthday":"1989-03-21",
+         "phone":"0689898899",
+         "email":"test@mail.com",
+         "balance":"2000",
+         "status":"1"
       },
-      "surname": "Schulist",
-      "dateOfBirthday": "1989-03-21",
-      "phone": "0689898899",
-      "email": "test@mail.com",
-      "balance": "2000",
-      "status": "1"
-    },
-    {
-      "id" : "7",
-      "info": {
-        "name" : "Kurtis",
-        "city" : "Kraków",
-        "avatar": ""
+      {
+         "id":"7",
+         "info":{
+            "name":"Kurtis",
+            "city":"Kraków",
+            "avatar":""
+         },
+         "surname":"Weissnat",
+         "dateOfBirthday":"1989-03-21",
+         "phone":"0689898899",
+         "email":"test@mail.com",
+         "balance":"2000",
+         "status":"1"
+      }
+   ],
+   "specialists":[
+      {
+         "id":"1",
+         "name":"Leanne",
+         "surname":"Graham",
+         "dateOfBirthday":"1989-03-30",
+         "phone":"0689898899",
+         "email":"Sincere@april.biz",
+         "balance":"2000",
+         "orders":"25",
+         "rejectedOrders":"12",
+         "doneOrders":"13",
+         "views":"50",
+         "status":"1",
+         "city":"Kraków"
       },
-      "surname": "Weissnat",
-      "dateOfBirthday": "1989-03-21",
-      "phone": "0689898899",
-      "email": "test@mail.com",
-      "balance": "2000",
-      "status": "1"
-    }
-  ],
-  "specialists" : [
-    {
-      "id" : "1",
-      "name" : "Leanne",
-      "surname": "Graham",
-      "dateOfBirthday": "1989-03-30",
-      "phone": "0689898899",
-      "email": "Sincere@april.biz",
-      "balance": "2000",
-      "orders": "25",
-      "rejectedOrders": "12",
-      "doneOrders": "13",
-      "views" : "50",
-      "status": "1",
-      "city" : "Kraków"
-    },
-    {
-      "id" : "2",
-      "name" : "Ervin",
-      "surname": "Howell",
-      "dateOfBirthday": "1986-12-21",
-      "phone": "0689898031",
-      "email": "Nathan@yesenia.net",
-      "balance": "200",
-      "orders": "25",
-      "rejectedOrders": "12",
-      "doneOrders": "13",
-      "views" : "50",
-      "status": "1",
-      "city" : "Kraków"
-    },
-    {
-      "id" : "3",
-      "name" : "Clementine",
-      "surname": "Bauch",
-      "dateOfBirthday": "1995-03-21",
-      "phone": "0931437899",
-      "email": "Shanna@melissa.tv",
-      "balance": "1500",
-      "orders": "25",
-      "rejectedOrders": "12",
-      "doneOrders": "13",
-      "views" : "50",
-      "status": "1",
-      "city" : "Kraków"
-    },
-    {
-      "id" : "4",
-      "name" : "Patricia",
-      "surname": "Lebsack",
-      "dateOfBirthday": "1989-03-21",
-      "phone": "0689898899",
-      "email": "test@mail.com",
-      "balance": "2000",
-      "orders": "25",
-      "rejectedOrders": "12",
-      "doneOrders": "13",
-      "views" : "50",
-      "status": "0",
-      "city" : "Kraków"
-    },
-    {
-      "id" : "5",
-      "name" : "Chelsey",
-      "surname": "Dietrich",
-      "dateOfBirthday": "1989-03-21",
-      "phone": "0689898899",
-      "email": "test@mail.com",
-      "balance": "3000",
-      "orders": "25",
-      "rejectedOrders": "12",
-      "doneOrders": "13",
-      "views" : "50",
-      "status": "1",
-      "city" : "Kraków"
-    },
-    {
-      "id" : "6",
-      "name" : "Dennis",
-      "surname": "Schulist",
-      "dateOfBirthday": "1989-03-21",
-      "phone": "0689898899",
-      "email": "test@mail.com",
-      "balance": "2000",
-      "orders": "25",
-      "rejectedOrders": "12",
-      "doneOrders": "13",
-      "views" : "50",
-      "status": "1",
-      "city" : "Kraków"
-    },
-    {
-      "id" : "7",
-      "name" : "Kurtis",
-      "surname": "Weissnat",
-      "dateOfBirthday": "1989-03-21",
-      "phone": "0689898899",
-      "email": "test@mail.com",
-      "balance": "2000",
-      "orders": "25",
-      "rejectedOrders": "12",
-      "doneOrders": "13",
-      "views" : "50",
-      "status": "1",
-      "city" : "Kraków"
-    }
-  ]
+      {
+         "id":"2",
+         "name":"Ervin",
+         "surname":"Howell",
+         "dateOfBirthday":"1986-12-21",
+         "phone":"0689898031",
+         "email":"Nathan@yesenia.net",
+         "balance":"200",
+         "orders":"25",
+         "rejectedOrders":"12",
+         "doneOrders":"13",
+         "views":"50",
+         "status":"1",
+         "city":"Kraków"
+      },
+      {
+         "id":"3",
+         "name":"Clementine",
+         "surname":"Bauch",
+         "dateOfBirthday":"1995-03-21",
+         "phone":"0931437899",
+         "email":"Shanna@melissa.tv",
+         "balance":"1500",
+         "orders":"25",
+         "rejectedOrders":"12",
+         "doneOrders":"13",
+         "views":"50",
+         "status":"1",
+         "city":"Kraków"
+      },
+      {
+         "id":"4",
+         "name":"Patricia",
+         "surname":"Lebsack",
+         "dateOfBirthday":"1989-03-21",
+         "phone":"0689898899",
+         "email":"test@mail.com",
+         "balance":"2000",
+         "orders":"25",
+         "rejectedOrders":"12",
+         "doneOrders":"13",
+         "views":"50",
+         "status":"0",
+         "city":"Kraków"
+      },
+      {
+         "id":"5",
+         "name":"Chelsey",
+         "surname":"Dietrich",
+         "dateOfBirthday":"1989-03-21",
+         "phone":"0689898899",
+         "email":"test@mail.com",
+         "balance":"3000",
+         "orders":"25",
+         "rejectedOrders":"12",
+         "doneOrders":"13",
+         "views":"50",
+         "status":"1",
+         "city":"Kraków"
+      },
+      {
+         "id":"6",
+         "name":"Dennis",
+         "surname":"Schulist",
+         "dateOfBirthday":"1989-03-21",
+         "phone":"0689898899",
+         "email":"test@mail.com",
+         "balance":"2000",
+         "orders":"25",
+         "rejectedOrders":"12",
+         "doneOrders":"13",
+         "views":"50",
+         "status":"1",
+         "city":"Kraków"
+      },
+      {
+         "id":"7",
+         "name":"Kurtis",
+         "surname":"Weissnat",
+         "dateOfBirthday":"1989-03-21",
+         "phone":"0689898899",
+         "email":"test@mail.com",
+         "balance":"2000",
+         "orders":"25",
+         "rejectedOrders":"12",
+         "doneOrders":"13",
+         "views":"50",
+         "status":"1",
+         "city":"Kraków"
+      }
+   ]
 }
